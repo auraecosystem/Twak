@@ -283,3 +283,4 @@ main() {
 }
 
 main "$@"
+mpip install fastapi uvicorn web3 eth-account openai
